@@ -1,0 +1,8 @@
+﻿  Homework_4.cpp
+C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_4\Homework_4\Homework_4.cpp(17,32): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_4\Homework_4\Homework_4.cpp(18,32): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_4\Homework_4\Homework_4.cpp(33,36): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+  Polynom.cpp
+C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_4\Homework_4\Polynom.cpp(12,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Homework_4.vcxproj -> C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_4\x64\Debug\Homework_4.exe

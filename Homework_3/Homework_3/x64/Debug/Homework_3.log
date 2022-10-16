@@ -1,0 +1,4 @@
+﻿  Homework_3.cpp
+C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_3\Homework_3\Homework_3.cpp(48,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_3\Homework_3\Homework_3.cpp(49,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Homework_3.vcxproj -> C:\Users\times up\source\repos\Tehnologii_programmirovania\Homework_3\x64\Debug\Homework_3.exe
